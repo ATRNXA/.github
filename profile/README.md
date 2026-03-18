@@ -2,19 +2,29 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&width=800&height=50&duration=4000&lines=Namaskara" />
 </h3>
 
+💠 ATRNXA
 
-# 🐾 Aranya-Marjara  
+Advanced Techniques for Reasoning in Neural eXecution Architectures
 
-Aranya-Marjara, named after the Sanskrit term for “wild cat”, is an open-source organization focused on **understanding**, **experimenting with**, and **building** the core ideas behind modern AI and ML systems.
+ATRNXA is a research-oriented environment focused on building and understanding computational systems from first principles. We prioritize structural clarity and low-level performance over high-level abstraction.
+🏗️ Core Focus
 
-This organization is maintained by a single independent, self-taught developer and exists with one purpose:  
-to create **learning-focused** implementations of foundational AI concepts — without hype or exaggeration.
+    Neural Architectures: Ground-up implementations of Transformers, GQA, and MoE.
 
+    Execution Runtimes: Optimizing training pipelines and KV-cache management.
 
-## ⚠️ Disclaimer
+    Systems Exploration: Low-level Linux/Arch optimization and hardware-level experiments.
 
-All repositories are experimental and intended for learning, research, and personal exploration.  
-No formal security audits have been conducted.  
-Use responsibly and evaluate code before applying it in real-world systems.
+🛠️ Active Project: MARJARA
 
+A high-efficiency Transformer training system featuring:
 
+    GQA & RoPE: Memory-efficient attention with rotary embeddings.
+
+    Stability: QK-Norm and SwiGLU/MoE integration.
+
+    Distributed: Support for multi-GPU training via torchrun.
+
+⚠️ Research Status
+
+Repositories under ATRNXA are experimental. They represent an iterative journey into neural execution and systems engineering. No formal audits. Use for architectural reference and personal exploration.
