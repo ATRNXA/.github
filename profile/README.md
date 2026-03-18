@@ -1,4 +1,4 @@
-# ATRNXA
+#Advanced Techniques for Reasoning in Neural eXecution Architectures
 
 ATRNXA is a research-oriented environment focused on building and understanding computational systems from first principles. We prioritize structural clarity and low-level performance over high-level abstraction.
 
